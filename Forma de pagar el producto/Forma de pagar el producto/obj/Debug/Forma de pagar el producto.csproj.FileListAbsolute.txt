@@ -1,0 +1,6 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Forma de pagar el producto\Forma de pagar el producto\bin\Debug\Forma de pagar el producto.exe.config
+C:\Users\JOSE MANUEL\Documents\Visual Studio 2013\Projects\Forma de pagar el producto\Forma de pagar el producto\bin\Debug\Forma de pagar el producto.exe
+C:\Users\JOSE MANUEL\Documents\Visual Studio 2013\Projects\Forma de pagar el producto\Forma de pagar el producto\bin\Debug\Forma de pagar el producto.pdb
+C:\Users\JOSE MANUEL\Documents\Visual Studio 2013\Projects\Forma de pagar el producto\Forma de pagar el producto\obj\Debug\Forma de pagar el producto.csprojResolveAssemblyReference.cache
+C:\Users\JOSE MANUEL\Documents\Visual Studio 2013\Projects\Forma de pagar el producto\Forma de pagar el producto\obj\Debug\Forma de pagar el producto.exe
+C:\Users\JOSE MANUEL\Documents\Visual Studio 2013\Projects\Forma de pagar el producto\Forma de pagar el producto\obj\Debug\Forma de pagar el producto.pdb
