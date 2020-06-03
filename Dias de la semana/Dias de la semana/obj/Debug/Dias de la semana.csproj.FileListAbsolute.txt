@@ -1,0 +1,6 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Dias de la semana\Dias de la semana\bin\Debug\Dias de la semana.exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Dias de la semana\Dias de la semana\obj\Debug\Dias de la semana.csprojResolveAssemblyReference.cache
+c:\users\jose manuel\documents\visual studio 2013\Projects\Dias de la semana\Dias de la semana\bin\Debug\Dias de la semana.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Dias de la semana\Dias de la semana\bin\Debug\Dias de la semana.pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Dias de la semana\Dias de la semana\obj\Debug\Dias de la semana.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Dias de la semana\Dias de la semana\obj\Debug\Dias de la semana.pdb
